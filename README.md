@@ -1,5 +1,4 @@
-# Human-vs-AI-text-Classifier
-# 🧠 AI vs Human Text Classifier
+# AI vs Human Text Classifier
 
 A lightweight, interpretable ML app that classifies whether text is **human-written** or **AI-generated** using a Scikit-learn pipeline and a Streamlit interface.
 
