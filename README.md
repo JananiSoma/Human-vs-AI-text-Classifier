@@ -14,5 +14,5 @@ A lightweight, interpretable ML app that classifies whether text is **human-writ
 
 ## 📦 Tech Stack
 - Python, Scikit-learn, NLTK, Streamlit
-- Dataset: linked below
+- Dataset: https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
 ---
